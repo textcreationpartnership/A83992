@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands remembrancer: in two parts. Or, A catalogue of all or most of the severall victories, and strong holds obtained (through Gods blessing) by the Parliaments forces since the armies rising from before Oxford in June last, 1645. to the generall thanksgiving, Octob. 2. 1645. As also since that time to this present thanksgiving of the Parliament, city of London, and parts adjacent. March 12. 1645. All within the time of 8 moneths. Published of purpose to draw forth Englands thankfulnesse, unto the Lord of Hoasts at all times, but more especially upon her dayes of thanksgiving.</title>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83992</idno><idno type="EEBO-CITATION">99861345</idno>
+  <idno type="VID">113478</idno>
+  <idno type="EEBO-PROQUEST">2240898513</idno>
+  
+            <idno type="STC">Wing E3033</idno>
+            <idno type="STC">Thomason E327_24</idno>
+            <idno type="STC">ESTC R200663</idno>
+            <idno type="PROQUEST">99861345</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861345e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83992)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113478)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E327[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands remembrancer: in two parts. Or, A catalogue of all or most of the severall victories, and strong holds obtained (through Gods blessing) by the Parliaments forces since the armies rising from before Oxford in June last, 1645. to the generall thanksgiving, Octob. 2. 1645. As also since that time to this present thanksgiving of the Parliament, city of London, and parts adjacent. March 12. 1645. All within the time of 8 moneths. Published of purpose to draw forth Englands thankfulnesse, unto the Lord of Hoasts at all times, but more especially upon her dayes of thanksgiving.</title>
+               </titleStmt>
+               <extent>[2], 9, [1] p. : ill., port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vnderhill at the Bible in Woodstreet.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>March 11. 1645. [i.e. 1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a frontispiece portrait of Sir Thomas Fairfax.</note>
+                  <note>Wing has publication year 1645; Thomason catalogue lists under 1646.</note>
+                  <note>Trimmed at foot, affecting text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:113478:1"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Thomas Fairfax</figDesc>
+                  <head>The Effigies of the most Excellent &amp; truly valliant S Thomas Fairfax Cap:<seg rend="sup">tin</seg> Generall of the Armies raised for the preservation of Religion, defence of King Parlia:<seg rend="sup">mt</seg> &amp; Kingdome</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:113478:1"/>
+            <p>ENGLANDS REMEMBRANCER: IN TWO PARTS.</p>
+            <p>
+               <hi>OR,</hi> A Catalogue of all or most of the se<g ref="char:EOLhyphen"/>verall Victories, and strong Holds obtained (through Gods blessing) by the <hi>Parliaments</hi> Forces since the Armies rising from before <hi>Oxford</hi> in June last, 1645. to the Generall Thanksgiving, <hi>Octob.</hi> 2. 1645. As also since that time to this present Thanksgiving of the <hi>Parliament,</hi> City of <hi>London,</hi> and parts ad<g ref="char:EOLhyphen"/>jacent. <hi>March</hi> 12. 1645.</p>
+            <p>All within the time of 8 Moneths.</p>
+            <p>Published of purpose to draw forth <hi>Englands Thankfulnesse,</hi> Unto the Lord of Hoasts at all times, but more especially upon her dayes of Thanksgiving.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho: Ʋnderhill</hi> at the Bible in Woodstreet. <hi>March</hi> 11. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_victories">
+            <pb n="2" facs="tcp:113478:2"/>
+            <head>A Catalogue of the PARLIAMENTS Victories since the Army (under his Excellency Sir THO: FAIRFAX) rose from before <hi>Oxford</hi> in June last. 1645.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>N June</hi> 1645. <hi>the Army of the Parliament under the Com<g ref="char:EOLhyphen"/>mand of his Excellency</hi> Sir T. Fairfax <hi>rose from the besei<g ref="char:EOLhyphen"/>ging of Oxford, marched against the</hi> Kings potent and insulting Army <hi>then in Northamptonshire (who were new<g ref="char:EOLhyphen"/>ly</hi> flesh't <hi>with the taking and sacking of Lecester) and by Gods blessing obtained over them.</hi>
+            </p>
+            <p>
+               <list>
+                  <item>1 <hi>A glorious Victory the</hi> 14. <hi>day of the same moneth by a great battell fought in Nazby-field, where after a great fight we routed all the Kings horse, kild, and took all his foot, with all the Ordnance, bag, and baggage.</hi> Also the Kings Cabinet of Letters, therein promising to set up Po<g ref="char:EOLhyphen"/>pery; and calling over not onely Irish, but other forraign forces against the Parliament. Presently after which, God blessed the same Army with,</item>
+                  <item>2 <hi>The regaining of that very considerable Town of Lecester,</hi> with all the many Ordnance, and Arms, much Powder, and many hundred horse that were in it. And after a long and wearisome march, with,</item>
+                  <item>3 <hi>The Relief of that greatly distressed, but faithfull Town of</hi> Taunton.</item>
+                  <item>4 <hi>And the gaining of the Garrison of Ilchester in Somersetsheire.</hi> Which done, both Armies again joyn'd battell, and God gave the Par<g ref="char:EOLhyphen"/>liaments Army under his Excellency, Sir <hi>Tho: Fairfax,</hi>
+                  </item>
+                  <item>5 <hi>A great and full victory over</hi> Gorings <hi>Western Army neer Langport:</hi> And suddenly after gave unto them many other very stroug Holds: <hi>(viz.)</hi>
+                  </item>
+                  <item>6 <hi>Langport Garrison,</hi> with all the Arms, and Ammunition.</item>
+                  <item>7 <hi>Burrugh-Church Garrison,</hi> a strong hold near Taunton.</item>
+                  <item>8 <hi>The great and strong hold of Bridgewater.</hi>
+                  </item>
+                  <item>
+                     <p>9 <hi>The City of Bath.</hi>
+                     </p>
+                     <p>And inabled them to beat and quell,</p>
+                  </item>
+                  <item>10 <hi>The Army of malignant Club-men of Somershetsheire:</hi> as also to take in</item>
+                  <pb n="3" facs="tcp:113478:2"/>
+                  <item> 11 <hi>The strong Castle of Sherburn,</hi> by Storm, with all the Ordnance, Arms, and Ammunition therein.</item>
+                  <item>12 <hi>Nunney Castle in Somersetsheire.</hi> And after 3. weekslying about Bri<g ref="char:EOLhyphen"/>stoll, God delivered up unto the same Army.</item>
+                  <item>13 <hi>Porshut Point,</hi> a strong Fort commanding Kings Road by Bristoll, and presently after also on the 11. Sept.</item>
+                  <item>14 <hi>That rich, great, strong, and most considerable City of Bristoll,</hi> partly by Storm, and partly by Composition. And,</item>
+                  <item>15 <hi>That considerable Castle, and Town of the</hi> Devizes, <hi>upon the</hi> 22. <hi>of Sept.</hi> 1645. A little time after which, the Parliaments forces also took</item>
+                  <item>16 <hi>Farligh Castle in Somersetshiere.</hi>
+                  </item>
+                  <item>17 <hi>Laycock-House in Wiltsheire.</hi>
+                  </item>
+                  <item>
+                     <p>18 <hi>Barkly Castle in Gloucestersheire, Sept.</hi> 26. which was a very strong Hold.</p>
+                     <p>There was also about the time of the Seige of Bridgewater taken by the Parliaments Forces,</p>
+                  </item>
+                  <item>
+                     <p>19 <hi>Chidwick Castle near Lyme, being a strong Garrison.</hi>
+                     </p>
+                     <p>The successe of the English and Scottish forces in the North since June last, <hi>viz.</hi>
+                     </p>
+                  </item>
+                  <item>20 <hi>The obtaining of the strong City and Castle of Carlile,</hi> after many moneths seige.</item>
+                  <item>21 <hi>The strong Castle of Pontefraict in Yorkesheire.</hi>
+                  </item>
+                  <item>22 <hi>The impregnable Castle of Scarborough,</hi> after a long seige.</item>
+                  <item>
+                     <p>23 <hi>And the regaining of Rabie Castle in the Bishoprick of Durham.</hi>
+                     </p>
+                     <p>Since which, the Scots took by Storm,</p>
+                  </item>
+                  <item>24 <hi>Carmon Froome Castle in Herefordsheire.</hi>
+                  </item>
+                  <item>25 26 27 28 29 30 31 32 The successe of the Parliaments forces under the command of the Committee of Shrewsbury hath been likewise very great in the taking of
+<list>
+                        <item>25. <hi>Dawley Castle,</hi>
+                        </item>
+                        <item>26. <hi>Shradon Castle,</hi>
+                        </item>
+                        <item>27. <hi>Caos Castle,</hi>
+                        </item>
+                        <item>28. <hi>Stockley Castle,</hi>
+                        </item>
+                        <item>29. <hi>Morton Corbet House,</hi>
+                        </item>
+                        <item>30. <hi>Rooton Castle,</hi>
+                        </item>
+                        <item>31. <hi>Lin<g ref="char:EOLhyphen"/>sill Manner, and</hi>
+                        </item>
+                        <item>32 <hi>Apley House.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <p>33 The Scots Forces in Scotland have also been blessed with <hi>Aglo<g ref="char:EOLhyphen"/>rious victory upon the</hi> 13. <hi>day of Sept.</hi> 1645. (which was to them as a Resurrection from death, God remembring them in their lowe estate, after <hi>Montrosse</hi> had over-run the Kingdom, and was Master of the Field) after a fierce battell the Enemy was totally routed, and spoiled; where was killed the Lord <hi>Crafford</hi> Generall of the Kings Horse, with many others of note. And took prisoners, 6 Lords, 16 Knights and Collonels, with many hundred other pri<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>
+                        <pb n="4" facs="tcp:113478:3"/>among our Victories, because we did lay the losse so much to heart.</p>
+                     <p>The Parliaments Forces also in South Wales under Major Ge<g ref="char:EOLhyphen"/>nerall <hi>Laughorn,</hi> have been blessed with glorious successes in the time before mentioned, <hi>viz.</hi>
+                     </p>
+                  </item>
+                  <item>34 <hi>With the raising the Seige from Pembroke.</hi>
+                  </item>
+                  <item>35 <hi>A great Victory, Aug.</hi> 1. 1645. <hi>over the Enemies whole Welch Army,</hi> con<g ref="char:EOLhyphen"/>sisting of 450 Horse, 1100 Foot, and 4 peece of Ordnance, <hi>upon Colby Moore,</hi> 3 <hi>miles from Haverford-West, where the Enemy was to<g ref="char:EOLhyphen"/>tally routed,</hi> 150 of them kill'd, about 700 of them taken priso<g ref="char:EOLhyphen"/>ners: Among whom were 3 Feild-officers, 29 Captains, and other Officers. Where they also took from the Enemy 4 peece of Ordnance, 5 Barrels of Powder, and about 800 Arms, with all their Carriages, and Provision.</item>
+                  <item>36 <hi>The taking the Town and Castle of Haverford-west by storme, Aug.</hi> 5. and in it 120 common Souldiers, 20 Commanders, and Officers: whereof were, 1 Coll. 1 Lieu. Coll. and 1 Major, also 1 peece of Ordnance, and 120 Arms.</item>
+                  <item>37 <hi>Carew Castle.</hi>
+                  </item>
+                  <item>38 <hi>Picton Castle in Pembrookesheire, and</hi>
+                  </item>
+                  <item>39 <hi>Cardish Castle in Glamorgansheire.</hi>
+                  </item>
+                  <item>40 <hi>Chester being beseiged, stormed, and part of it taken by the Chesheire forces, the King with an Army of</hi> 5000 <hi>marched from Worcester to its relief, which Forces were incountred at Routon-heath neer Chester, Sept.</hi> 24. <hi>by the Chesheire Forces, and the Forces under Major Generall</hi> Pointz; <hi>who were blest with a glorious Victory, the Enemy being wholly routed,</hi> the Earl of Litchfeild killed, and about 600 of them slain. We took prisoners about 1400 men, and 2000 horse. Besides 10 Knights and Collonels, 7 Lieu: Collonels, 5 Majors, 19 Cap<g ref="char:EOLhyphen"/>tains, besides other inferior Officers.</item>
+               </list>
+            </p>
+            <div type="part">
+               <head>The second Part of the Catalogue of Victories, since the Rising from before <hi>Oxford,</hi> containing a Cata<g ref="char:EOLhyphen"/>logue of all or most of the <hi>Parliaments</hi> Victories since the last Generall Thanksgiving, to this present <hi>Generall Thanksgiving. Feb.</hi> 5. 1645.</head>
+               <p>GOd continueth yet gracious unto the Parliament, in deliver<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: page cropped" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </p>
+               <pb n="5" facs="tcp:113478:3"/>
+               <p>
+                  <list>
+                     <item>41 <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                        <hi>Sandal Castle,</hi> Oct. 1. after a long siege, a place of great strength. To the Forces under Sir <hi>Tho: Fairfax,</hi> led by Lieu. Generall <hi>Crumwell.</hi>
+                     </item>
+                     <item>
+                        <p>42 <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                           <hi>Winchester City and Castle upon composition, Oct.</hi> 6. A place of great strength, with 7 peece of ordnances, 17 barrels of powder, 2000 weight of Musket bullet, 800 weight of Match, 700 Muskets, 38 Hogshead of Beef and Pork, 15000 weight of Cheese, 8000 weight of Butter, 140 quarters of Wheat, 7000 weight of Bisket, 112 Hogsheads of Beer, 3 Hogsheads of Wine, &amp;c.</p>
+                        <p>To the Forces of Gloucester and Munmothsheires.</p>
+                     </item>
+                     <item>
+                        <p>43 <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                           <hi>Chepstow Town and Castle in Munmothsheire, Oct.</hi> 11. 1645. (after a siege and battery) upon Composition, with all the Ordi<g ref="char:EOLhyphen"/>nance, Arms, and Ammunition, <hi>viz.</hi> 10 barrels of Powder, 17 Peece of Ordnance, 200 Arms, with great store of all manner of provision.</p>
+                        <p>To the Chesheire Forces.</p>
+                     </item>
+                     <item>
+                        <p>44 <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                           <hi>Holt Church Garrison.</hi>
+                        </p>
+                        <p>To part of the Army under his Excellency Sir <hi>Tho: Fairfax,</hi> led by Lieu: Gen: <hi>Crumwell,</hi> and the Forces under Col: <hi>D'albere.</hi>
+                        </p>
+                     </item>
+                     <item>
+                        <p>45 <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+                           <hi>That rich and strong Hold, of Basing House by Storme, Oct.</hi> 14. In which was taken the Marquis of Winchester, all the Com<g ref="char:EOLhyphen"/>manders, and common Souldiers, all the Ordnance, Arms, Ammunition, <hi>viz.</hi> 10. peece of Ordnance, 20 barrels of powder, with Match proportionable, 9 Colours, 2000 Arms, 300 horse, 400 quarter of Wheat, 300 flitch of Bacon, 200 barrels of Beef, 40000 weight of Cheese, divers Sellers of Beere, &amp;c.</p>
+                        <p>To the said Army under his Excellency:</p>
+                     </item>
+                     <item>
+                        <p>46 <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+                           <hi>Langford House neer Salisbury, Oct.</hi> 17. <hi>upon composition:</hi> with all the Arms, and Ammunition in it.</p>
+                        <p>And to the Forces under Major Generall <hi>Laughorne:</hi>
+                        </p>
+                     </item>
+                     <item>
+                        <p>47 <milestone type="tcpmilestone" unit="unspecified" n="7"/>
+                           <hi>Camarthen Town and Castle, Oct.</hi> 12. The whole County there<g ref="char:EOLhyphen"/>upon declaring themselves for the King and Parliament.</p>
+                        <p>Presently after which, God blessed the Parliaments Forces in Yorkshire with,</p>
+                     </item>
+                     <item>
+                        <p>48 <milestone type="tcpmilestone" unit="unspecified" n="8"/>
+                           <hi>That great victory neer Sherborn in Yorkesheire, Oct.</hi> 15. <hi>which was in manner following.</hi> (viz.) <hi>The Enemy commanded by the Kings new made Generall</hi> Digby, <hi>and</hi> Langdale, <hi>with a purpose to in<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible: page cropped" extent="1 line">
+                                 <desc>〈1 line〉</desc>
+                              </gap>
+                              <gap reason="duplicate" extent="1 page">
+                                 <desc>〈1 page duplicate〉</desc>
+                              </gap>
+                              <pb n="4" facs="tcp:113478:4"/>
+                              <gap reason="duplicate" extent="1 page">
+                                 <desc>〈1 page duplicate〉</desc>
+                              </gap>
+                              <pb n="5" facs="tcp:113478:4"/>
+                              <pb n="6" facs="tcp:113478:5"/>Sherburn, and Milford; but our party under the command of Col<g ref="char:EOLhyphen"/>lonel</hi> Copley <hi>being then in the pursuit of the Enemy, forc'd them to fight neer Sherburn: and after a hot dispute, totally routed them, and pursued them</hi> 3 <hi>miles.</hi> By which victory not onely our lost men were rescued, but we killd of the Enemies 2 Collonels, took of the Enemy, 4 Coll: 2 Lieu: Coll: 1 Major, 9 Captains, besides many other Officers, and about 400 common soul<g ref="char:EOLhyphen"/>diers, with 600 horse, and many Colours; together with <hi>Dygbys</hi> Coach, and Cabinet of Letters.</p>
+                        <p>The Army under his Excellency Sir <hi>Tho: Fairfax,</hi> with the gaining of</p>
+                     </item>
+                     <item>
+                        <p>49 <milestone type="tcpmilestone" unit="unspecified" n="9"/>
+                           <hi>Tivorton Castle neer Exeter by storme, Oct.</hi> 19. <hi>in manner following.</hi> A Councell of Warre being called to order the manner of the Storme, a Cannonere with a great shot brake the chain of the Draw-bridge, whereby it fell down; and thereupon the Souldiers immediately without order entred, and got over the Works with little opposition: whereupon the Ene<g ref="char:EOLhyphen"/>mie fled into the Castle and Church for their security, where they had quarter for their lives. In which Castle we took 4 peece of Ordnance, 30 barrels of Powder, 5 Feild Of<g ref="char:EOLhyphen"/>ficers, 6 Captains, 7 Lieftenants, 6 Ensignes, and about 200 common Souldiers.</p>
+                        <p>The Forces under Col: <hi>Morgaine</hi> with the taking of</p>
+                     </item>
+                     <item>50 <milestone type="tcpmilestone" unit="unspecified" n="10"/>
+                        <hi>Munmoth Towne by storme about the middle of October, and after three dayes seige the Castle upon composition,</hi> in which were ta<g ref="char:EOLhyphen"/>ken 7. Peeces of Ordinance, 4. sling Peeces, 300. Musquets, 100. Pistolls, 10. Barrills of Powder, with all manner of provision proportionable, and the Scottish Forces in the North of <hi>England,</hi> commanded by Sir <hi>John Bromne,</hi> with</item>
+                     <item>
+                        <p>51 <milestone type="tcpmilestone" unit="unspecified" n="11"/>
+                           <hi>The great second Victory over the Kings Army under the Command of</hi> Digby <hi>and</hi> Langdale, <hi>who againe intending the invading of</hi> Scotland <hi>were met with, by the said Scottish forces, Octob.</hi> 24. <hi>on the sands, upon the Border of</hi> Scotland, <hi>and after a fierce en<g ref="char:EOLhyphen"/>counter were totally routed</hi> in which fight, the <hi>Scots</hi> kild of the Enemy 100. tooke in this fight 200. Horse, <hi>Digbyes</hi> quar<g ref="char:EOLhyphen"/>ter Master Generall, 1. Coll. 2. Lievtenant Collon: &amp;c. and utterly dispersed the rest, who were most of them ta<g ref="char:EOLhyphen"/>ken by the valiant Traind Bands of <hi>Lankeshare</hi> and <hi>Westmor<g ref="char:EOLhyphen"/>land</hi> in their flight, which happy Victory did not onely <gap reason="illegible: page cropped" extent="1 line">
+                              <desc>〈1 line〉</desc>
+                           </gap>
+                           <pb n="7" facs="tcp:113478:5"/>overthrew his Army, and forced him to flye to <hi>Ireland</hi> from the hand of Justice.</p>
+                        <p>Shortly after which God gave the Forces under Sir <hi>William Brereton</hi> upon the 1 Nov. 1645.</p>
+                     </item>
+                     <item>
+                        <p>52 <milestone type="tcpmilestone" unit="unspecified" n="12"/>
+                           <hi>A great Victory over the united Forces of severall of the Kings Garri<g ref="char:EOLhyphen"/>sons, under the Command of Sir</hi> William Vaughan <hi>at</hi> Denbigh <hi>in</hi> Wales, <hi>who were</hi> 2000. <hi>Horse and Foote, intending the reliefe of</hi> Chester, <hi>but were by a small party of ours (while the greater part of the body were fetching a compasse to gaine the advant age of ground) fought with, and totally routed,</hi> in which Battell were slaine of the Enemy about 100. and taken 600. Horse, and 400. Prisoners.</p>
+                        <p>And blessed the Parliaments Forces under Major Generall <hi>Pointz,</hi> with the taking of severall strong holds, <hi>viz.</hi>
+                        </p>
+                     </item>
+                     <item>53 <milestone type="tcpmilestone" unit="unspecified" n="13"/>
+                        <hi>Shelford House by storme, Oct.</hi> 27. 1645. with all the Ordinance, Armes and Ammunition.</item>
+                     <item>54 <milestone type="tcpmilestone" unit="unspecified" n="14"/>
+                        <hi>Boulton Castle neere Newarke upon Composition.</hi>
+                     </item>
+                     <item>55 <milestone type="tcpmilestone" unit="unspecified" n="15"/>
+                        <hi>Worton House neare Newarke upon Composition.</hi>
+                     </item>
+                     <item>
+                        <p>56 <milestone type="tcpmilestone" unit="unspecified" n="16"/>
+                           <hi>Welbeck House procured to be slighted.</hi>
+                        </p>
+                        <p>God continued yet gracious to the Parliament, in blessing their Forces in severall Counties, <hi>viz.</hi>
+                        </p>
+                        <p>The Chesheire Forces with the gaining</p>
+                     </item>
+                     <item>
+                        <p>57 <milestone type="tcpmilestone" unit="unspecified" n="17"/>
+                           <hi>That impregnable Castle of Beeston in Chesheire upon Composition Nov.</hi> 16. <hi>after a long seige.</hi>
+                        </p>
+                        <p>The Lanchesheire Forces after a years seige with the ob<g ref="char:EOLhyphen"/>taining</p>
+                     </item>
+                     <item>
+                        <p>58 <milestone type="tcpmilestone" unit="unspecified" n="18"/>
+                           <hi>The impregnable Fort of Latham House upon Composition,</hi> the onely remayning Garrison the Enemy had in that County.</p>
+                        <p>The Forces under Collon. <hi>Morgan</hi> and Col. <hi>Birch,</hi> with the gaining</p>
+                     </item>
+                     <item>
+                        <p>49 <milestone type="tcpmilestone" unit="unspecified" n="19"/>
+                           <hi>That strong and considerable City of Hereford</hi> by a Strategem upon the 18. of December, 1645. where were taken 11. Peece of Ordinance, many Armes, much Ammunition, the Lord <hi>Brudnell,</hi> 14. Knights, with many Feild Officers, Captaines and Leiftenants, all with little or no losse.</p>
+                        <p>The Forces under Major Generall <hi>Laughorne,</hi> with the winning of</p>
+                     </item>
+                     <item>
+                        <p>60 <milestone type="tcpmilestone" unit="unspecified" n="20"/>
+                           <hi>Embleden Castle in Carmarthen-sheire.</hi>
+                        </p>
+                        <p>The Yorkesheire Forces with the taking of</p>
+                     </item>
+                     <item>
+                        <p>
+                           <gap reason="illegible: page cropped" extent="1 line">
+                              <desc>〈1 line〉</desc>
+                           </gap>
+                           <milestone type="tcpmilestone" unit="unspecified" n="21"/>
+                           <pb n="8" facs="tcp:113478:6"/>remaining in Yorksheire upon Composition, after a long Seige.</p>
+                        <p>Also the Army under his Excellency Sir <hi>Thomas Fairfax</hi> is further blest with the gaining</p>
+                     </item>
+                     <item>62 <milestone type="tcpmilestone" unit="unspecified" n="22"/>
+                        <hi>The Garrison of Fulford House neare Exeter, and</hi>
+                     </item>
+                     <item>63 <milestone type="tcpmilestone" unit="unspecified" n="23"/>
+                        <hi>The Garrison of Callityne House neare Exeter,</hi> and in it a Troop of Horse, with all the Armes and Ammunition, and</item>
+                     <item>64 <milestone type="tcpmilestone" unit="unspecified" n="24"/>
+                        <hi>The Garrison of Pouldram House neare Exeter.</hi> And with</item>
+                     <item>65 <milestone type="tcpmilestone" unit="unspecified" n="25"/>
+                        <hi>The releiving of that famous Towne of Plimmoth</hi> (the Plimmoth Forces taking from the Enemy</item>
+                     <item>66 <milestone type="tcpmilestone" unit="unspecified" n="26"/>
+                        <hi>Canterbury Fort.</hi>
+                     </item>
+                     <item>67 <milestone type="tcpmilestone" unit="unspecified" n="27"/>
+                        <hi>St. Budeaux Church nere Plimmoth by storme,</hi> a strong Garrison, and in it 92. Prisoners: among which 2. Majors, 4. Cap<g ref="char:EOLhyphen"/>tains, with a Troope of Horse, and all the Armes and Am<g ref="char:EOLhyphen"/>munition, and forcd the Enemy to quit.</item>
+                     <item>68 <milestone type="tcpmilestone" unit="unspecified" n="28"/>
+                        <hi>Sir Francis Drakes House nere Plimmoth.</hi>) The gaining also</item>
+                     <item>69 <milestone type="tcpmilestone" unit="unspecified" n="29"/>
+                        <hi>The strong and considerable Towne and Castle of Dortmoth by storme, Jan.</hi> 18. 1645. <hi>Sir</hi> Thomas <hi>his Excellency being pre<g ref="char:EOLhyphen"/>sent at the storme,</hi> in which were taken the Governor, 1. Earl, 1. Col. 4. Lievetenant Collonels, 2. Majors, 15. Cap<g ref="char:EOLhyphen"/>taines, 14. Leifetenants, 9. Ensignes, 1. Cornet, above 800. common Souldiers, 120. Peeces of Ordinance ready mounted, with all the other Armes and Ammunition, al<g ref="char:EOLhyphen"/>so two men of Warre in the harbour.</item>
+                     <item>70 <milestone type="tcpmilestone" unit="unspecified" n="30"/> The Parliaments Forces in divers parts are yet blest with Successes, as the Yorksheire Forces with</item>
+                     <item>
+                        <p>71 <milestone type="tcpmilestone" unit="unspecified" n="31"/>
+                           <hi>The gaining of Belvour Castle, a place of great strength.</hi>
+                        </p>
+                        <p>The Army under Sir <hi>Will: Brereton</hi> with the gaining</p>
+                     </item>
+                     <item>
+                        <p>72 <milestone type="tcpmilestone" unit="unspecified" n="32"/>
+                           <hi>That famous City, and strong Port of Chester, surrendred unto Sir</hi> Wil<g ref="char:EOLhyphen"/>liam Brereton <hi>upon Composition, the</hi> 3 <hi>day of this instant Febr. (after a long Seige) with all the Ordnance, Arms, Ammunition and Horse</hi> (except a horse and Arms to every Commander and Officer above Lieftenants) <hi>and all the Irish Prisoners.</hi>
+                        </p>
+                        <p>The Army under the immediate Command of His Excel<g ref="char:EOLhyphen"/>lency with</p>
+                     </item>
+                     <item>73 <milestone type="tcpmilestone" unit="unspecified" n="33"/>
+                        <hi>The great Victory over the Enemy in and neer</hi> Torrington <hi>in</hi> Devon<g ref="char:EOLhyphen"/>sheire, <hi>by which not onely that Town then fortified was taken by Storm,</hi> Febr. 16. 1645. But also the Lord <hi>Hoptons</hi> Infantry was taken, slain, and totally routed; and the Horse put to <gap reason="illegible: page cropped" extent="1 line">
+                           <desc>〈1 line〉</desc>
+                        </gap>
+                        <pb n="9" facs="tcp:113478:6"/>that Victory 600 prisoners, (among whom, 1 Lieft: Col: 8 Captains, &amp;c.) 200 horse, 3000 Arms, with all the Ene<g ref="char:EOLhyphen"/>mies bag and baggage.</item>
+                     <item>
+                        <p>74 <milestone type="tcpmilestone" unit="unspecified" n="34"/>
+                           <hi>The gaining of the strong, and very considerable Garison of</hi> Corffe-Castle <hi>in</hi> Dorsetsheire, <hi>which was taken by Storm.</hi>
+                        </p>
+                        <p>The Army under Major Generall <hi>Laughorne</hi> with</p>
+                     </item>
+                     <item>
+                        <p>75 <milestone type="tcpmilestone" unit="unspecified" n="35"/>
+                           <hi>The great and most seasonable Victory over the Army of</hi> Welch <hi>revolt<g ref="char:EOLhyphen"/>ers under the Command of Sheriff</hi> Karne, <hi>who had besieged</hi> Car<g ref="char:EOLhyphen"/>diffe, <hi>by which means not onely the said Town and Castle was re<g ref="char:EOLhyphen"/>leived; but that new Army of the Enemies was after two fierce in<g ref="char:EOLhyphen"/>counters totally routed.</hi> In which were kild of the Enemy above 200, and took 800 prisoners: whereof 2 Lieft: Col: 2 Ma<g ref="char:EOLhyphen"/>jors, 10 Captains.</p>
+                        <p>The Forces of the Parliaments at <hi>Abbington</hi> with</p>
+                     </item>
+                     <item>
+                        <p>76 <milestone type="tcpmilestone" unit="unspecified" n="36"/>
+                           <hi>A great Victory over the Enemy that was entred the Town, but had a gallant repulse, and so the Town cleared of them.</hi>
+                        </p>
+                        <p>The Forces of <hi>Lecester</hi> with</p>
+                     </item>
+                     <item>77 <milestone type="tcpmilestone" unit="unspecified" n="37"/>
+                        <hi>The obtaining that strong and gallant Garison of</hi> Ashbedelazauch <hi>upon Composition.</hi>
+                     </item>
+                  </list>
+               </p>
+               <closer>To God alone be all the Glory. <hi>Amen.</hi>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
